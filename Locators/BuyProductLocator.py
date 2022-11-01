@@ -1,0 +1,7 @@
+shirt_link = "//div[@data-at='product-title' and text()='SHAYE']"
+size_btn = "//button[@type='button' and text()='S']"
+add_to_bag = "//div[@id='pdp-bottom-cta-container']"
+view_bag = "//button[@data-at='add-to-bag']"
+buy_now = "//button[@data-at='continue-to-checkout']"
+procced_to_pay = "//div[@id='app']//child::aside//child::div//child::div//following-sibling::button"
+summary = "//h2[contains(text(),'Price Summary')]"
